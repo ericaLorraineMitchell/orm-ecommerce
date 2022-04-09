@@ -28,7 +28,7 @@ You will need to `npm i` and install the following packages: `npm install expres
 
 ## Mock up & Visual
 
-Please see walkthrough video [here]()
+Please see walkthrough video [here](https://drive.google.com/file/d/1VDg1zie84pCKEXsxHvtM096jWH1wAQBJ/view?usp=sharing)
 
 ![example image](./Assets/13-orm-homework-demo-01.gif)
 
